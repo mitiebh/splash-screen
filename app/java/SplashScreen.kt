@@ -16,7 +16,7 @@ class SplashScreen : AppCompatActivity() {
         supportActionBar?.hide()
         //start main activity after pre defined time-out second
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this@SplashScreen, MainActivity::class.java)
             startActivity(intent)
             finish()
         }, TIME_OUT)
