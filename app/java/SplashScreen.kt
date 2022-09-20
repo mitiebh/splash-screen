@@ -1,10 +1,10 @@
 package com.mitiebh.splashscreen
 
-import android.content.Intent
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import android.content.Intent
 import android.os.Handler
 import android.os.Looper
-import androidx.appcompat.app.AppCompatActivity
 
 class SplashScreen : AppCompatActivity() {
     // after this time-out millisecond, the Main Activity will get started
