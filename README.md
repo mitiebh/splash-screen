@@ -11,14 +11,11 @@ The Splash screen is used to display some basic introductory information such as
 |   |   ├── SplashScreen.kt
 │   ├── res
 |   |   ├── drawable
-│   |   |   ├── Folable.png
 │   |   |   ├── ic_launcher_foreground.xml
-│   |   |   ├── phone.png
 |   |   ├── layout
 |   |   |   ├── activity_main
 |   |   |   ├── activity_splash_screen.xml
 └── README.md
 ```
-I just put the files that need. first you sould create new project and add two activities, one of them for showing splash screen (it must set as launcher) and one is MainActivity and i used the default android icon and color brand for splash screen look like below.<br>  
-![Phone view](https://raw.githubusercontent.com/mitiebh/splash-screen/main/app/res/drawable/phone.png)
-![Foldable view](https://raw.githubusercontent.com/mitiebh/splash-screen/main/app/res/drawable/Foldable.png)
+I just put the files that need. first you sould create new project and add two activities, one of them for showing splash screen (it must set as launcher) and one is MainActivity and i used the default android icon and color brand for splash screen look like below.<br>   
+<img src="https://user-images.githubusercontent.com/61208323/191293704-45c99a44-729b-44d1-91db-2b47c6d06c73.gif" alt="splash screen android app" style="width:200px;"/>
