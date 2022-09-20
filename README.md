@@ -11,7 +11,11 @@ The Splash screen is used to display some basic introductory information such as
 |   |   ├── SplashScreen.kt
 │   ├── res
 |   |   ├── drawable
+│   |   |   ├── Desktop.png
+│   |   |   ├── Folable.png
+│   |   |   ├── Tablet.png
 │   |   |   ├── ic_launcher_foreground.xml
+│   |   |   ├── phone.png
 |   |   ├── layout
 |   |   |   ├── activity_main
 |   |   |   ├── activity_splash_screen.xml
